@@ -1,0 +1,15 @@
+button {
+  padding: 10px 15px;
+  background-color: #31cf9f;
+  color: white;
+  border-radius: 5px;
+
+}
+
+.task button {
+  padding: 8px 12px;
+  background-color: #dc3545; 
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
